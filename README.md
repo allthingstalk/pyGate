@@ -37,7 +37,3 @@ The following dependencies are automatically installed from requirements.txt
 - [pygate-core](https://github.com/allthingstalk/pygate-core)
 - paho-mqtt
 - PyYAML
-
-
-
-
